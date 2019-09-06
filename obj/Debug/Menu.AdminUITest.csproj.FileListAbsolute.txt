@@ -1,0 +1,12 @@
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\bin\Debug\Menu.AdminUITest.exe.config
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\bin\Debug\Menu.AdminUITest.exe
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\bin\Debug\Menu.AdminUITest.pdb
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\bin\Debug\WebDriver.dll
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\bin\Debug\WebDriver.Support.dll
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\bin\Debug\WebDriver.xml
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\bin\Debug\WebDriver.Support.xml
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\obj\Debug\Menu.AdminUITest.csprojResolveAssemblyReference.cache
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\obj\Debug\Menu.AdminUITest.csproj.CoreCompileInputs.cache
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\obj\Debug\Menu.AdminUITest.csproj.CopyComplete
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\obj\Debug\Menu.AdminUITest.exe
+c:\users\muruvvet.uzun\source\repos\Menu.AdminUITest\Menu.AdminUITest\obj\Debug\Menu.AdminUITest.pdb
